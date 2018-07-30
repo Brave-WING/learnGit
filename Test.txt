@@ -4,6 +4,6 @@ And Git is free software.
 Long Live Open Source!!!
 
 There is some text for test.
-A dog bucks on the forecourt.
-And the thief shocked.
-Then, the thief run away.
+A little dog bucks on the forecourt.
+And the thief has been shocked.
+Then, the thief run away quickly.
