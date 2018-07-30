@@ -1,0 +1,9 @@
+This is test file to learn how to use the Git!!
+Git is most popular Version Control System.
+And Git is free software.
+Long Live Open Source!!!
+
+There is some text for test.
+A dog bucks on the forecourt.
+And the thief shocked.
+Then, the thief run away.
